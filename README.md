@@ -75,11 +75,6 @@ MSc in Mathematical Modeling from ITMO University. Gentoo user. I like systems t
 
 ## GitHub Stats
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dbudyak&show_icons=true&theme=transparent&hide_border=true&count_private=true&hide_title=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbudyak&layout=compact&theme=transparent&hide_border=true&hide_title=true&langs_count=8" />
-</p>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dbudyak&theme=github-compact&hide_border=true&area=true" width="100%" />
 
 ## Featured Projects
