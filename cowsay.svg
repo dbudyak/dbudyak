@@ -41,11 +41,12 @@
     <text y="140" class="t line l7" x="7.8">_________________________________________</text>
     <text y="160" class="t line l8">&lt;&#160;Hello, I'm Dima! Welcome to my Github!&#160;&gt;</text>
     <text y="180" class="t line l9" x="7.8">-----------------------------------------</text>
-    <text y="200" class="cow line l10" x="62.4">\&#160;&#160;&#160;^__^</text>
-    <text y="220" class="cow line l11" x="70.2">\&#160;&#160;(oo)\_______</text>
-    <text y="240" class="cow line l12" x="93.6">(__)\&#160;&#160;&#160;&#160;&#160;&#160;&#160;)\/\</text>
-    <text y="260" class="cow line l13" x="124.8">||----w&#160;|</text>
-    <text y="280" class="cow line l14" x="124.8">||&#160;&#160;&#160;&#160;&#160;||</text>
+
+    <text y="200" class="cow line l10"><tspan x="62.4">\</tspan><tspan x="93.6">^__^</tspan></text>
+    <text y="220" class="cow line l11"><tspan x="70.2">\</tspan><tspan x="93.6">(oo)\_______</tspan></text>
+    <text y="240" class="cow line l12"><tspan x="93.6">(__)\</tspan><tspan x="156">)\/\</tspan></text>
+    <text y="260" class="cow line l13"><tspan x="124.8">||----w |</tspan></text>
+    <text y="280" class="cow line l14"><tspan x="124.8">||</tspan><tspan x="163.8">||</tspan></text>
 
     <text y="312" class="t line l15"><tspan class="prompt">dima@nas ~ $</tspan></text>
     <text y="312" x="102" class="cow cursor">█</text>
