@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&background=00000000&vCenter=true&width=600&lines=Hey%2C+I'm+Dima+%F0%9F%91%8B;Backend+%26+Platform+Engineer">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=1F2328&background=00000000&vCenter=true&width=600&lines=Hey%2C+I'm+Dima+%F0%9F%91%8B;Backend+%26+Platform+Engineer" alt="Typing SVG" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&background=00000000&vCenter=true&width=600&lines=Hey%2C+I'm+Dima+%F0%9F%91%8B;Software+Developer">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=1F2328&background=00000000&vCenter=true&width=600&lines=Hey%2C+I'm+Dima+%F0%9F%91%8B;Software+Developer" alt="Typing SVG" />
 </picture>
 
 ```
