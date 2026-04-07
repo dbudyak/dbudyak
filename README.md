@@ -11,8 +11,6 @@
 
 Software Developer based in Porvoo, Finland. 10+ years shipping scalable services in **Kotlin**, **Java**, **Go**, and **Python**. Currently co-founding an early-stage startup. Previously worked at **Wolt (DoorDash)**, **ARM/Pelion IoT**, and **Oracle**.
 
-MSc in Mathematical Modeling from ITMO University. Gentoo user. I like systems that are simple, fast, and boring in production.
-
 ## Tech Stack
 
 **Languages**
