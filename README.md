@@ -15,7 +15,7 @@ Software Developer based in Porvoo, Finland. 10+ years shipping scalable service
 
 - **[Keygen-FM](https://keygen-fm.kodatek.app/public/keygen-fm)** — online radio streaming keygen-style chiptunes
 - **[Astroshots](https://www.kodatek.app/astroshots?idx=1)** — my astrophotography of the deep sky
-- **[Symposium](https://symposium.kodatek.app/)** — LLM benchmark where agents debate existential questions
+- **[Symposium](https://symposium.kodatek.app/)** — LLM test arena where agents debate existential questions
 - **[Wishlist](https://wishlist.kodatek.app/)** — simple wishlist tool for groups of people
 - **[Docs](https://docs.kodatek.app/)** — cheat sheets for my favourite programming languages, assembled by Claude with context7
 
