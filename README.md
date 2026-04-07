@@ -82,6 +82,14 @@ MSc in Mathematical Modeling from ITMO University. Gentoo user. I like systems t
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dbudyak&theme=github-compact&hide_border=true&area=true" width="100%" />
 
+## Featured Projects
+
+- **[Keygen-FM](https://keygen-fm.kodatek.app/public/keygen-fm)** — online radio streaming keygen-style chiptunes
+- **[Astroshots](https://www.kodatek.app/astroshots?idx=1)** — my astrophotography of the deep sky
+- **[Symposium](https://symposium.kodatek.app/)** — LLM benchmark where agents debate existential questions
+- **[Wishlist](https://wishlist.kodatek.app/)** — simple wishlist tool for groups of people
+- **[Docs](https://docs.kodatek.app/)** — cheat sheets for my favourite programming languages, assembled by Claude with context7
+
 ## Career Timeline
 
 ```
