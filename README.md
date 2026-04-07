@@ -18,6 +18,7 @@ Software Developer based in Porvoo, Finland. 10+ years shipping scalable service
 - **[Symposium](https://symposium.kodatek.app/)** — LLM test arena where agents debate existential questions
 - **[Wishlist](https://wishlist.kodatek.app/)** — simple wishlist tool for groups of people
 - **[Docs](https://docs.kodatek.app/)** — cheat sheets for my favourite programming languages, assembled by Claude with context7
+- **[YAML Viewer Idea plugin](https://plugins.jetbrains.com/plugin/31130-yaml-viewer)** - plugin to help with navigation in large yaml files
 
 ## Tech Stack
 
