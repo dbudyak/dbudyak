@@ -3,24 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=1F2328&background=00000000&vCenter=true&width=600&lines=Hey%2C+I'm+Dima+%F0%9F%91%8B;Software+Developer" alt="Typing SVG" />
 </picture>
 
-```
-dima@nas ~ $ emerge --ask app-misc/cowsay
-Calculating dependencies... done!
-[ebuild  N    ] app-misc/cowsay-3.04-r2  USE="unicode"
-
->>> Installing app-misc/cowsay-3.04-r2
->>> Completed installing app-misc/cowsay-3.04-r2
-
-dima@nas ~ $ cowsay "Welcome to my GitHub!"
- _______________________
-< Welcome to my GitHub! >
- -----------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-```
+<p align="center">
+  <img src="cowsay.svg" alt="cowsay" width="680" />
+</p>
 
 ## `whoami`
 
