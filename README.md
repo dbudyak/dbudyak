@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="cowsay.svg" alt="cowsay" width="680" />
 </p>
 
