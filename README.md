@@ -24,7 +24,7 @@ dima@nas ~ $ cowsay "Welcome to my GitHub!"
 
 ## `whoami`
 
-Backend & platform engineer based in Porvoo, Finland. 10+ years shipping scalable services in **Kotlin**, **Java**, **Go**, and **Python**. Currently co-founding an early-stage startup and building it end-to-end as a solo engineer using multi-agent AI workflows. Previously at **Wolt (DoorDash)**, **ARM/Pelion IoT**, and **Oracle**.
+Backend & platform engineer based in Porvoo, Finland. 10+ years shipping scalable services in **Kotlin**, **Java**, **Go**, and **Python**. Currently co-founding an early-stage startup. Previously at **Wolt (DoorDash)**, **ARM/Pelion IoT**, and **Oracle**.
 
 MSc in Mathematical Modeling from ITMO University. Gentoo user. I like systems that are simple, fast, and boring in production.
 
