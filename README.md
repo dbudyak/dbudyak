@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="cowsay.svg" alt="cowsay" width="680" />
+  <img src="cowsay.svg" alt="cowsay" width="800" />
 </p>
 
 ## `whoami`
