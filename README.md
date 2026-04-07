@@ -6,6 +6,19 @@
 
 Software Developer based in Porvoo, Finland. 10+ years shipping scalable services in **Kotlin**, **Java**, **Go**, and **Python**. Currently co-founding an early-stage startup. Previously worked at **Wolt (DoorDash)**, **ARM/Pelion IoT**, and **Oracle**.
 
+## GitHub Stats
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dbudyak&theme=github-compact&hide_border=true&area=true" width="100%" />
+
+
+## Featured Public Projects
+
+- **[Keygen-FM](https://keygen-fm.kodatek.app/public/keygen-fm)** — online radio streaming keygen-style chiptunes
+- **[Astroshots](https://www.kodatek.app/astroshots?idx=1)** — my astrophotography of the deep sky
+- **[Symposium](https://symposium.kodatek.app/)** — LLM benchmark where agents debate existential questions
+- **[Wishlist](https://wishlist.kodatek.app/)** — simple wishlist tool for groups of people
+- **[Docs](https://docs.kodatek.app/)** — cheat sheets for my favourite programming languages, assembled by Claude with context7
+
 ## Tech Stack
 
 **Languages**
@@ -50,18 +63,6 @@ Software Developer based in Porvoo, Finland. 10+ years shipping scalable service
 ![LLM](https://img.shields.io/badge/LLM_Integration-412991?style=flat&logo=openai&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F00?style=flat)
 ![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-1B1F23?style=flat)
-
-## GitHub Stats
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dbudyak&theme=github-compact&hide_border=true&area=true" width="100%" />
-
-## Featured Projects
-
-- **[Keygen-FM](https://keygen-fm.kodatek.app/public/keygen-fm)** — online radio streaming keygen-style chiptunes
-- **[Astroshots](https://www.kodatek.app/astroshots?idx=1)** — my astrophotography of the deep sky
-- **[Symposium](https://symposium.kodatek.app/)** — LLM benchmark where agents debate existential questions
-- **[Wishlist](https://wishlist.kodatek.app/)** — simple wishlist tool for groups of people
-- **[Docs](https://docs.kodatek.app/)** — cheat sheets for my favourite programming languages, assembled by Claude with context7
 
 ## Career Timeline
 
