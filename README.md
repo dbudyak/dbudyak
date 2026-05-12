@@ -13,6 +13,8 @@ Software Developer based in Porvoo, Finland. 10+ years shipping scalable service
 
 ## Featured Public Projects
 
+### Available in the internet
+
 - **[Keygen-FM](https://keygen-fm.kodatek.app/public/keygen-fm)** — online radio streaming keygen-style chiptunes
 - **[Astroshots](https://www.kodatek.app/astroshots?idx=1)** — my astrophotography of the deep sky
 - **[Symposium](https://symposium.kodatek.app/)** — LLM test arena where agents debate existential questions
@@ -20,12 +22,14 @@ Software Developer based in Porvoo, Finland. 10+ years shipping scalable service
 - **[Docs](https://docs.kodatek.app/)** — cheat sheets for my favourite programming languages, assembled by Claude with context7
 - **[YAML Viewer Idea plugin](https://plugins.jetbrains.com/plugin/31130-yaml-viewer)** - plugin to help with navigation in large yaml files
 
+<img width="499" height="296" alt="Screenshot 2026-05-12 at 16 51 04" src="https://github.com/user-attachments/assets/aa872fd7-fbc9-42ed-b5d1-f6894b0ee78f" />
+
 ### Other projects, tools and random things
 - [Test Spec Generator](https://github.com/dbudyak/kotlin-testgen) - Generates test specs in YAML for the provided codebase. Supports local LLMs.
 - [Optical Quantum Networks simulator](https://github.com/dbudyak/archive/tree/master/desktop/entangler) - revived by Claude, my master's project developed with JavaFX
 - [Concurrent Website monitor](https://github.com/dbudyak/archive/tree/master/backend/backend-20260123-dbudyak) - some home assigment in Python with concurrency and persistence
 - [Claude SaaS Starter](https://github.com/dbudyak/claude-saas-starter) - my setup to bootstrap full stack
-- [Advent of Code, Leetcode, courses](https://github.com/dbudyak/brain-massage) - AI-free space where I try do not offload my intelligence in problem-solving
+- [Advent of Code, Leetcode, courses](https://github.com/dbudyak/brain-massage) - AI-free space where I try not to offload my intelligence in CS problem-solving
 
 ## Tech Stack
 
