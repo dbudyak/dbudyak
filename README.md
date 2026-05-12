@@ -26,7 +26,7 @@ Software Developer based in Porvoo, Finland. 10+ years shipping scalable service
 
 ### Other projects, tools and random things
 - [Test Spec Generator](https://github.com/dbudyak/kotlin-testgen) - Generates test specs in YAML for the provided codebase. Supports local LLMs.
-- [Optical Quantum Networks simulator](https://github.com/dbudyak/archive/tree/master/desktop/entangler) - revived by Claude, my master's project developed with JavaFX
+- [Optical Quantum Networks simulator](https://github.com/dbudyak/archive/tree/master/desktop/entangler) - revived by Claude, my 2014 master's project developed with JavaFX
 - [Concurrent Website monitor](https://github.com/dbudyak/archive/tree/master/backend/backend-20260123-dbudyak) - some home assigment in Python with concurrency and persistence
 - [Claude SaaS Starter](https://github.com/dbudyak/claude-saas-starter) - my setup to bootstrap full stack
 - [Advent of Code, Leetcode, courses](https://github.com/dbudyak/brain-massage) - AI-free space where I try not to offload my intelligence in CS problem-solving
