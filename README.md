@@ -22,7 +22,7 @@ Software Developer based in Porvoo, Finland. 10+ years shipping scalable service
 - **[Docs](https://docs.kodatek.app/)** — cheat sheets for my favourite programming languages, assembled by Claude with context7
 - **[YAML Viewer Idea plugin](https://plugins.jetbrains.com/plugin/31130-yaml-viewer)** - plugin to help with navigation in large yaml files
 
-<img width="499" height="296" alt="Screenshot 2026-05-12 at 16 51 04" src="https://github.com/user-attachments/assets/aa872fd7-fbc9-42ed-b5d1-f6894b0ee78f" />
+   <img width="499" height="296" alt="Screenshot 2026-05-12 at 16 51 04" src="https://github.com/user-attachments/assets/aa872fd7-fbc9-42ed-b5d1-f6894b0ee78f" />
 
 ### Other projects, tools and random things
 - [Test Spec Generator](https://github.com/dbudyak/kotlin-testgen) - Generates test specs in YAML for the provided codebase. Supports local LLMs.
