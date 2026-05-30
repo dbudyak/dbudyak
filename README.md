@@ -4,7 +4,7 @@
 
 ## `whoami`
 
-Software Developer based in Porvoo, Finland. 10+ years shipping scalable services in **Kotlin**, **Java**, **Go**, and **Python**. Currently co-founding an early-stage [startup](https://meet.kofocus.fi/). Previously worked at **Wolt (DoorDash)**, **ARM/Pelion IoT**, and **Oracle**.
+Software Developer based in Porvoo, Finland. 10+ years shipping scalable services in **Kotlin**, **Java**, **Go**, and **Python**. Currently co-founding an early-stage [startup](https://www.kofocus.fi/). Previously worked at **Wolt (DoorDash)**, **ARM/Pelion IoT**, and **Oracle**.
 
 ## GitHub Stats
 
