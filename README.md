@@ -6,10 +6,6 @@
 
 Software Developer based in Porvoo, Finland. 10+ years shipping scalable services in **Kotlin**, **Java**, **Go**, and **Python**. Currently co-founding an early-stage [startup](https://www.kofocus.fi/). Previously worked at **Wolt (DoorDash)**, **ARM/Pelion IoT**, and **Oracle**.
 
-## GitHub Stats
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dbudyak&theme=github-compact&hide_border=true&area=true" width="100%" />
-
 
 ## Featured Public Projects
 
